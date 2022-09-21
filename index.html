@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bimestrais</title>
+    <style>
+        body {
+            background: rgb(42, 42, 42);
+            color: rgb(255, 255, 255);
+            font-family: Helvetica;
+            font-size: 20px;
+            padding: 20px;
+        }
+
+        .res {
+            /* text-align: center; */
+            text-align: left;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+        }
+
+        @media(max-width: 600px) {
+            .res {
+                grid-template-columns: 1fr;
+            }
+        }
+
+
+
+        .botao {
+            display: flex;
+            justify-content: center;
+        }
+
+        button {
+            width: 320px;
+            height: 100px;
+            margin: 0 auto;
+            padding: 0;
+            line-height: 100px;
+            text-align: center;
+            font-size: 25px;
+        }
+
+        /*  */
+    </style>
+</head>
+<div class="botao">
+    <button onclick="gerar()" class="botao">Gerar nova combinação</button>
+    <button onclick="gerarPDF()" class="botao">Gerar PDF</button>
+</div>
+<br>
+<br>
+<br>
+<br>
+<div class="res">
+    <div id="res9A" class="content"></div>
+    <div id="res9B" class="content"></div>
+    <div id="res1A" class="content"></div>
+    <div id="res1B" class="content"></div>
+    <div id="res2A" class="content"></div>
+    <div id="res2B" class="content"></div>
+    <div id="res3A" class="content"></div>
+    <div id="res3B" class="content"></div>
+</div>
+<br>
+<div id="res"></div>
+<body>
+    <script src="script.js"></script>
+</body>
+
+</html>
