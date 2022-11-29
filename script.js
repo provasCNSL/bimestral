@@ -26,234 +26,234 @@ function gerar() {
 
   function definindoAlunos() {
     alunos9A = [
-      'MARIANA PIERANGELI', 
-      'ANA CLARA SILVA', 
-      'LILIAN DE CÁSSIA', 
-      'ARTHUR SILVA', 
-      'LUCIANO TEIXEIRA', 
-      'MARCELA MESQUITA', 
-      'ENRIQUE RIBEIRO', 
-      'ANITA HELENA', 
-      'CAIO GABRIEL', 
-      'PEDRO FRANÇA', 
-      'LEONARDO FELIPE', 
-      'MARINA PEREIRA', 
-      'ANDRÉ DA COSTA', 
-      'OTÁVIO CREPALDI', 
-      'JOÃO VITOR SIQUEIRA', 
-      'VINÍCIUS RODRIGUES', 
-      'GUILHERME RODRIGUES', 
-      'MARIA EDUARDA',
-      'ANA LUÍSA SANTOS', 
-      'OTÁVIO HENRIQUE', 
-      'GABRIEL BARBOSA', 
-      'PEDRO MARQUES', 
-      'LUCAS DESLANDES', 
-      'BRUNA GUALBERTO', 
-      'HELENA DE PAULA', 
-      'CAIO MESQUITA', 
-      'ALICE ARAÚJO', 
-      'DEBORA FERNANDES', 
-      'HENRIQUE RIBEIRO', 
-      'ANGELINA VIEIRA', 
-      'OTÁVIO CUSTÓDIO',
-      'ANA LAURA', 
-      'MARIA LUIZA PÁDUA', 
+      "MARIANA PIERANGELI",
+      "ANA CLARA SILVA",
+      "LILIAN DE CÁSSIA",
+      "ARTHUR SILVA",
+      "LUCIANO TEIXEIRA",
+      "MARCELA MESQUITA",
+      "ENRIQUE RIBEIRO",
+      "ANITA HELENA",
+      "CAIO GABRIEL",
+      "PEDRO FRANÇA",
+      "LEONARDO FELIPE",
+      "MARINA PEREIRA",
+      "ANDRÉ DA COSTA",
+      "OTÁVIO CREPALDI",
+      "JOÃO VITOR SIQUEIRA",
+      "VINÍCIUS RODRIGUES",
+      "GUILHERME RODRIGUES",
+      "MARIA EDUARDA",
+      "ANA LUÍSA SANTOS",
+      "OTÁVIO HENRIQUE",
+      "GABRIEL BARBOSA",
+      "PEDRO MARQUES",
+      "LUCAS DESLANDES",
+      "BRUNA GUALBERTO",
+      "HELENA DE PAULA",
+      "CAIO MESQUITA",
+      "ALICE ARAÚJO",
+      "DEBORA FERNANDES",
+      "HENRIQUE RIBEIRO",
+      "ANGELINA VIEIRA",
+      "OTÁVIO CUSTÓDIO",
+      "ANA LAURA",
+      "MARIA LUIZA PÁDUA",
     ];
 
     alunos9B = [
-      'MARIA C. SILVA', 
-      'LAÍS LINHARES', 
-      'ÁLVARO MADEIRA', 
-      'FERNANDO CARVALHO', 
-      'MARIA LUÍSA', 
-      'IAN PINHEIRO ', 
-      'DAVI TEIXEIRA', 
-      'KELLY DIAS DINIZ', 
-      'LAURA TEIXEIRA', 
-      'JOÃO VITOR AZEVEDO', 
-      'MIGUEL ANDRADE', 
-      'EMILLY HIPOLITO', 
-      'GABRIELLA GALDONE', 
-      'EDUARDA ANDRADE', 
-      'LETÍCIA MACHADO', 
-      'MARIA FERNANDA', 
-      'SARA RAYNEE', 
-      'JÚLIA LEITE', 
-      'LEONARDO MATHEUS', 
-      'ANA LUIZA', 
-      'ANDRÉ LUIZ', 
-      'LAUDOMILA MARIA', 
-      'LIVIA DE ALMEIDA', 
-      'MARIA PAULA', 
-      'IGOR VITORINO', 
-      'CAIO DE SOUZA', 
-      'ANITA LOESCH', 
-      'IVAN FLORES', 
-      'LETÍCIA GAMA', 
-      'MARCELA FERNANDA', 
-      'CAMILA MAGALHÃES', 
-      'STELA OLIVEIRA', 
-      'MARCUS HENRIQUE', 
-      'GUSTAVO GUEDES', 
-      'LUÍS ANTÔNIO LIMA', 
-      'ÁGATHA JUVENCIO', 
-      'ERIC MARTIMIANO',
-      'MARIA C. BORGES', 
-      'LIRIS RAMOS', 
+      "MARIA C. SILVA",
+      "LAÍS LINHARES",
+      "ÁLVARO MADEIRA",
+      "FERNANDO CARVALHO",
+      "MARIA LUÍSA",
+      "IAN PINHEIRO ",
+      "DAVI TEIXEIRA",
+      "KELLY DIAS DINIZ",
+      "LAURA TEIXEIRA",
+      "JOÃO VITOR AZEVEDO",
+      "MIGUEL ANDRADE",
+      "EMILLY HIPOLITO",
+      "GABRIELLA GALDONE",
+      "EDUARDA ANDRADE",
+      "LETÍCIA MACHADO",
+      "MARIA FERNANDA",
+      "SARA RAYNEE",
+      "JÚLIA LEITE",
+      "LEONARDO MATHEUS",
+      "ANA LUIZA",
+      "ANDRÉ LUIZ",
+      "LAUDOMILA MARIA",
+      "LIVIA DE ALMEIDA",
+      "MARIA PAULA",
+      "IGOR VITORINO",
+      "CAIO DE SOUZA",
+      "ANITA LOESCH",
+      "IVAN FLORES",
+      "LETÍCIA GAMA",
+      "MARCELA FERNANDA",
+      "CAMILA MAGALHÃES",
+      "STELA OLIVEIRA",
+      "MARCUS HENRIQUE",
+      "GUSTAVO GUEDES",
+      "LUÍS ANTÔNIO LIMA",
+      "ÁGATHA JUVENCIO",
+      "ERIC MARTIMIANO",
+      "MARIA C. BORGES",
+      "LIRIS RAMOS",
     ];
-    
+
     alunos1A = [
-      'PEDRO CARVALHO', 
-      'GABRIEL COSTA', 
-      'ANA JÚLIA', 
-      'BIANCA TONETTI', 
-      'HELENA DE RESENDE', 
-      'ANTÔNIO MORETTI', 
-      'JOÃO EDUARDO', 
-      'GEOVANNA MADEIRA', 
-      'BRENO HENRIQUE', 
-      'MARIA E. VIGILATO', 
-      'AQUILES GONÇALVES', 
-      'GEOVANA ZACARONI', 
-      'LUIZA SILVA', 
-      'PEDRO DESLANDES', 
-      'ANTÔNIO HENRIQUE', 
-      'PEDRO UMEMURA', 
-      'ANA PAULA', 
-      'MATHEUS ARAÚJO', 
-      'RAUL CARVALHO', 
-      'LUIZ PAULO', 
-      'MARIA E. BARTHOLO', 
-      'ANNITA BERTILACCHI', 
-      'RODRIGO ALVES', 
-      'JÚLIA FERNANDES', 
-      'FÁDUA DE FATIMA', 
-      'LEONARDO NESTOR', 
-      'GUSTAVO SOUZA', 
-      'JOÃO VITTOR', 
-      'ARTHUR MENESES', 
-      'ANA GABRIELA', 
-      'GUILHERME FREIRE', 
-      'LAÍS CRISTINA', 
-      'ANA CLARA',
-      'MATHEUS GUERRA', 
+      "PEDRO CARVALHO",
+      "GABRIEL COSTA",
+      "ANA JÚLIA",
+      "BIANCA TONETTI",
+      "HELENA DE RESENDE",
+      "ANTÔNIO MORETTI",
+      "JOÃO EDUARDO",
+      "GEOVANNA MADEIRA",
+      "BRENO HENRIQUE",
+      "MARIA E. VIGILATO",
+      "AQUILES GONÇALVES",
+      "GEOVANA ZACARONI",
+      "LUIZA SILVA",
+      "PEDRO DESLANDES",
+      "ANTÔNIO HENRIQUE",
+      "PEDRO UMEMURA",
+      "ANA PAULA",
+      "MATHEUS ARAÚJO",
+      "RAUL CARVALHO",
+      "LUIZ PAULO",
+      "MARIA E. BARTHOLO",
+      "ANNITA BERTILACCHI",
+      "RODRIGO ALVES",
+      "JÚLIA FERNANDES",
+      "FÁDUA DE FATIMA",
+      // 'LEONARDO NESTOR',
+      "GUSTAVO SOUZA",
+      "JOÃO VITTOR",
+      "ARTHUR MENESES",
+      "ANA GABRIELA",
+      "GUILHERME FREIRE",
+      "LAÍS CRISTINA",
+      "ANA CLARA",
+      "MATHEUS GUERRA",
     ];
 
     alunos1B = [
-      'LARA CRISTINA', 
-      'PEDRO OTÁVIO', 
-      'FELIPE SODRE', 
-      'EMILIANO VENTURA', 
-      'CLEO CARVALHO', 
-      'MARIA E. OLIVEIRA', 
-      'LORENA LAÍS', 
-      'PIERRE PIVATO', 
-      'ERICK ZAKHIA ', 
-      'LARA COSTA', 
-      'SABRINA INES', 
-      'MARIA LUIZA', 
-      'RAFAELLA RESENDE', 
-      'GABRIELA LIMA', 
-      'IAGO MOREIRA', 
-      'EMILLY SILVA', 
-      'OTÁVIO BARROSO', 
-      'MATHEUS ESTEVES', 
-      'LUIZ FELIPE', 
-      'GIOVANNA JÚLIA', 
-      'ANA LAURA', 
-      'GIOVANA PEREIRA',
-      'PEDRO HENRIQUE',
-      'LAURA CAMILLY', 
-      'JAMYLE ALBINO', 
-      'MATHEUS PEREIRA', 
-      'JÚLIA BOTELHO', 
-      'ALICE ARRIEL',
+      "LARA CRISTINA",
+      "PEDRO OTÁVIO",
+      "FELIPE SODRE",
+      "EMILIANO VENTURA",
+      "CLEO CARVALHO",
+      "MARIA E. OLIVEIRA",
+      "LORENA LAÍS",
+      "PIERRE PIVATO",
+      "ERICK ZAKHIA ",
+      "LARA COSTA",
+      "SABRINA INES",
+      "MARIA LUIZA",
+      "RAFAELLA RESENDE",
+      "GABRIELA LIMA",
+      "IAGO MOREIRA",
+      "EMILLY SILVA",
+      "OTÁVIO BARROSO",
+      "MATHEUS ESTEVES",
+      "LUIZ FELIPE",
+      "GIOVANNA JÚLIA",
+      "ANA LAURA",
+      "GIOVANA PEREIRA",
+      "PEDRO HENRIQUE",
+      "LAURA CAMILLY",
+      "JAMYLE ALBINO",
+      "MATHEUS PEREIRA",
+      "JÚLIA BOTELHO",
+      "ALICE ARRIEL",
     ];
     alunos2A = [
-      'ANA LUIZA', 
-      'JOÃO P. DA SILVA', 
-      'GUILHERME MENDES', 
-      'PEDRO HENRIQUE', 
-      'ALICE MENEZES', 
-      'LUÍS EDUARDO', 
-      'MATEUS FRANCO', 
-      'JOAO P. MENDES', 
-      'DANIEL COELHO', 
-      'VITOR CARVALHO', 
-      'LÍVIA MARIA', 
-      'JOÃO VICTOR', 
-      'LUCAS SEIJI', 
-      'PEDRO ALENCAR', 
-      'GABRIELLA OLIVEIRA', 
-      'ANA BEATRIZ', 
-      'RYAN CARLO', 
-      'MATHEUS FELIPE', 
-      'JOÃO P. WOUTERS', 
-      'VERONICA OLIVEIRA', 
-      'LUIGI OLIVEIRA', 
-      'ANA CLARA', 
-      'LUCAS BORGES', 
-      'JOÃO BATISTA', 
-      'DANIEL DE CASTRO',
-      'ANTONIO HENRIQUE', 
+      "ANA LUIZA",
+      // 'JOÃO P. DA SILVA',
+      "GUILHERME MENDES",
+      "PEDRO HENRIQUE",
+      "ALICE MENEZES",
+      "LUÍS EDUARDO",
+      "MATEUS FRANCO",
+      "JOAO P. MENDES",
+      "DANIEL COELHO",
+      "VITOR CARVALHO",
+      "LÍVIA MARIA",
+      "JOÃO VICTOR",
+      "LUCAS SEIJI",
+      "PEDRO ALENCAR",
+      "GABRIELLA OLIVEIRA",
+      "ANA BEATRIZ",
+      "RYAN CARLO",
+      "MATHEUS FELIPE",
+      "JOÃO P. WOUTERS",
+      "VERONICA OLIVEIRA",
+      "LUIGI OLIVEIRA",
+      "ANA CLARA",
+      "LUCAS BORGES",
+      // "JOÃO BATISTA",
+      "DANIEL DE CASTRO",
+      "ANTONIO HENRIQUE",
     ];
     alunos2B = [
-      'MURILO CARVALHO', 
-      'MARIA CLARA', 
-      'ISABELLY CHRISTINE', 
-      'GUSTAVO ALESSANDRO', 
-      'FELIPE FAZA', 
-      'HENRIQUE CRESPO', 
-      'LERRANYA VICTÓRIA', 
-      'VICTÓRIA MARIA', 
-      'GUSTAVO HENRIQUE', 
-      'THIAGO ANTÔNIO', 
-      'LUCAS ALVES', 
-      'MURILO SOARES', 
-      'IGNÁCIO DANIEL', 
-      'FELIPE NASCIMENTO', 
-      'BETINA LOESCH', 
-      'SANDRA PEREIRA', 
-      'SOPHIA MARIA', 
-      'MARIA EDUARDA', 
-      'LARA RESENDE', 
-      'MATEUS VITOR', 
-      'DAVI NASCIMENTO', 
-      'ISRAEL PULHEZ', 
-      'CAROLINA MARQUES', 
-      'VITORIO AUGUSTO', 
-      'MARIA LUIZA', 
-      'JÚLIA DE OLIVEIRA',
-      'LUCAS DE MESQUITA', 
+      "MURILO CARVALHO",
+      "MARIA CLARA",
+      "ISABELLY CHRISTINE",
+      "GUSTAVO ALESSANDRO",
+      "FELIPE FAZA",
+      "HENRIQUE CRESPO",
+      "LERRANYA VICTÓRIA",
+      "VICTÓRIA MARIA",
+      "GUSTAVO HENRIQUE",
+      "THIAGO ANTÔNIO",
+      "LUCAS ALVES",
+      "MURILO SOARES",
+      "IGNÁCIO DANIEL",
+      "FELIPE NASCIMENTO",
+      "BETINA LOESCH",
+      "SANDRA PEREIRA",
+      "SOPHIA MARIA",
+      "MARIA EDUARDA",
+      "LARA RESENDE",
+      "MATEUS VITOR",
+      "DAVI NASCIMENTO",
+      "ISRAEL PULHEZ",
+      "CAROLINA MARQUES",
+      // "VITORIO AUGUSTO",
+      "MARIA LUIZA",
+      "JÚLIA DE OLIVEIRA",
+      "LUCAS DE MESQUITA",
     ];
     alunos3A = [
-      'MARIA E. MARINHO', 
-      'LUCAS COELHO', 
-      'THIAGO TEIXEIRA', 
-      'MARIA CLARA', 
-      'VINICIUS CARVALHO', 
-      'BRUNO SILVA', 
-      'ISABELA NUNES', 
-      'BRENO SILVEIRA', 
-      'MARIANA FALCO', 
-      'ALEX ANTONY', 
-      'ANNA CLARA', 
-      'BEATRIZ HENRIQUES', 
-      'CAMILA FALCO', 
-      'MARIA EMANUELY', 
-      'JÚLIA MARQUEZINE', 
-      'LAÍS DESSIMONI', 
-      'JÚLIA DE SOUZA', 
-      'FRED', 
-      'RODRIGO ANTONIO', 
-      'MARIANA CARVALHO', 
-      'LUÍS FELIPE', 
-      'IAN GEOVANINI', 
-      'TULIO LASMAR', 
-      'BRUNO FERRARI', 
-      'GABRIELA GONÇALVES',
-      'MARIA E. DA SILVA', 
+      "MARIA E. MARINHO",
+      "LUCAS COELHO",
+      "THIAGO TEIXEIRA",
+      "MARIA CLARA",
+      "VINICIUS CARVALHO",
+      "BRUNO SILVA",
+      "ISABELA NUNES",
+      "BRENO SILVEIRA",
+      "MARIANA FALCO",
+      "ALEX ANTONY",
+      "ANNA CLARA",
+      "BEATRIZ HENRIQUES",
+      "CAMILA FALCO",
+      "MARIA EMANUELY",
+      "JÚLIA MARQUEZINE",
+      "LAÍS DESSIMONI",
+      "JÚLIA DE SOUZA",
+      "FRED",
+      "RODRIGO ANTONIO",
+      "MARIANA CARVALHO",
+      "LUÍS FELIPE",
+      "IAN GEOVANINI",
+      "TULIO LASMAR",
+      "BRUNO FERRARI",
+      "GABRIELA GONÇALVES",
+      "MARIA E. DA SILVA",
     ];
     alunos3B = [
       "MARCELY PEREIRA",
@@ -289,17 +289,8 @@ function gerar() {
       "MARIANA ASSUNÇÃO",
       "VINICIUS DE SOUZA",
     ];
-    console.log(
-      alunos9A.length,
-      alunos9B.length,
-      alunos1A.length,
-      alunos1B.length,
-      alunos2A.length,
-      alunos2B.length,
-      alunos3A.length,
-      alunos3B.length
-    );
   }
+
   var sala9A = [];
   var sala9B = [];
   var sala1A = ["FERNANDA ALVES"];
@@ -460,11 +451,11 @@ function gerar() {
   }
 
   addStudentsAt9A(alunos9A, 4);
-  addStudentsAt9A(alunos9B, 5);
+  addStudentsAt9A(alunos9B, 6);
   addStudentsAt9A(alunos1A, 5);
   addStudentsAt9A(alunos1B, 4);
   addStudentsAt9A(alunos2A, 3);
-  addStudentsAt9A(alunos2B, 4);
+  addStudentsAt9A(alunos2B, 3);
   addStudentsAt9A(alunos3A, 3);
   addStudentsAt9A(alunos3B, 5);
   randomizingTheOrderOfTheStudents();
@@ -501,11 +492,11 @@ function gerar() {
     room.splice(0, numberOfStudents);
   }
 
-  addStudentsAt9B(alunos9A, 5);
-  addStudentsAt9B(alunos9B, 5);
+  addStudentsAt9B(alunos9A, 6);
+  addStudentsAt9B(alunos9B, 6);
   addStudentsAt9B(alunos1A, 5);
   addStudentsAt9B(alunos1B, 4);
-  addStudentsAt9B(alunos2A, 5);
+  addStudentsAt9B(alunos2A, 3);
   addStudentsAt9B(alunos2B, 4);
   addStudentsAt9B(alunos3A, 5);
   addStudentsAt9B(alunos3B, 6);
@@ -545,7 +536,7 @@ function gerar() {
 
   addStudentsAt1A(alunos9A, 5);
   addStudentsAt1A(alunos9B, 5);
-  addStudentsAt1A(alunos1A, 5);
+  addStudentsAt1A(alunos1A, 4);
   addStudentsAt1A(alunos1B, 4);
   addStudentsAt1A(alunos2A, 3);
   addStudentsAt1A(alunos2B, 4);
@@ -594,6 +585,7 @@ function gerar() {
   addStudentsAt1B(alunos2B, 3);
   addStudentsAt1B(alunos3A, 3);
   addStudentsAt1B(alunos3B, 3);
+
   randomizingTheOrderOfTheStudents();
 
   //SALA 2A:
@@ -629,14 +621,15 @@ function gerar() {
     room.splice(0, numberOfStudents);
   }
 
-  addStudentsAt2A(alunos9A, 4);
-  addStudentsAt2A(alunos9B, 4);
+  addStudentsAt2A(alunos9A, 3);
+  addStudentsAt2A(alunos9B, 3);
   addStudentsAt2A(alunos1A, 3);
   addStudentsAt2A(alunos1B, 3);
   addStudentsAt2A(alunos2A, 3);
   addStudentsAt2A(alunos2B, 3);
   addStudentsAt2A(alunos3A, 3);
   addStudentsAt2A(alunos3B, 3);
+
   randomizingTheOrderOfTheStudents();
 
   //SALA 2B:
@@ -673,7 +666,7 @@ function gerar() {
   }
 
   addStudentsAt2B(alunos9A, 3);
-  addStudentsAt2B(alunos9B, 5);
+  addStudentsAt2B(alunos9B, 4);
   addStudentsAt2B(alunos1A, 4);
   addStudentsAt2B(alunos1B, 3);
   addStudentsAt2B(alunos2A, 3);
@@ -723,6 +716,7 @@ function gerar() {
   addStudentsAt3A(alunos2B, 3);
   addStudentsAt3A(alunos3A, 3);
   addStudentsAt3A(alunos3B, 3);
+
   randomizingTheOrderOfTheStudents();
 
   /*
@@ -777,6 +771,7 @@ function gerar() {
   addStudentsAt3B(alunos2B, 3);
   addStudentsAt3B(alunos3A, 3);
   addStudentsAt3B(alunos3B, 4);
+
   randomizingTheOrderOfTheStudents();
 
   sala9A.push(
@@ -933,6 +928,7 @@ function gerar() {
   console.log(sala3A.length);
   console.log(sala3B.length);
   */
+
   var res = document.getElementById("res");
   res.innerHTML = `<table border="1"> 
   <tr>
@@ -949,6 +945,7 @@ function gerar() {
   <tr>
   <td><strong>Local: <br> Sala 9A</strong></td>
   <td> 
+  
 
   ${alunos9A9A[0]} <br>
   ${alunos9A9A[1]} <br>
@@ -962,6 +959,7 @@ function gerar() {
   ${alunos9A9B[2]} <br>
   ${alunos9A9B[3]} <br>
   ${alunos9A9B[4]} <br>
+  ${alunos9A9B[5]} <br>
   </td>
   
   <td> 
@@ -989,11 +987,10 @@ function gerar() {
   ${alunos9A2B[0]} <br>
   ${alunos9A2B[1]} <br>
   ${alunos9A2B[2]} <br>
-  ${alunos9A2B[3]} <br>
   </td>
 
   <td>
-    ${alunos9A3A[0]} <br>
+  ${alunos9A3A[0]} <br>
   ${alunos9A3A[1]} <br>
   ${alunos9A3A[2]} <br>
   </td>
@@ -1016,11 +1013,14 @@ function gerar() {
   <td><strong>Local: <br> Sala 9B</strong></td> 
   <td> 
   
+  
+  
   ${alunos9B9A[0]} <br>
   ${alunos9B9A[1]} <br>
   ${alunos9B9A[2]} <br>
   ${alunos9B9A[3]} <br>
   ${alunos9B9A[4]} <br>
+  ${alunos9B9A[5]} <br>
   </td> 
   
   <td> 
@@ -1029,6 +1029,7 @@ function gerar() {
   ${alunos9B9B[2]} <br>
   ${alunos9B9B[3]} <br>
   ${alunos9B9B[4]} <br>
+  ${alunos9B9B[5]} <br>
   </td>
 
   <td> 
@@ -1050,8 +1051,6 @@ function gerar() {
   ${alunos9B2A[0]} <br>
   ${alunos9B2A[1]} <br>
   ${alunos9B2A[2]} <br>
-  ${alunos9B2A[3]} <br>
-  ${alunos9B2A[4]} <br>
   </td>
   
   <td> 
@@ -1079,8 +1078,6 @@ function gerar() {
   </td>
   </tr>
 
-
-
   <tr>
   <td><strong>Local: <br> Sala 1A</strong></td>
   <td> 
@@ -1105,7 +1102,6 @@ function gerar() {
   ${alunos1A1A[1]} <br>
   ${alunos1A1A[2]} <br>
   ${alunos1A1A[3]} <br>
-  ${alunos1A1A[4]} <br>
   </td>
 
   <td> 
@@ -1143,7 +1139,7 @@ function gerar() {
   </td>
   </tr>
 
-  
+    
 
   <tr>
   <td><strong>Local: <br> Sala 1B</strong></td>
@@ -1210,14 +1206,12 @@ function gerar() {
   ${alunos2A9A[0]} <br>
   ${alunos2A9A[1]} <br>
   ${alunos2A9A[2]} <br>
-  ${alunos2A9A[3]} <br>
   </td> 
   
   <td> 
   ${alunos2A9B[0]} <br>
   ${alunos2A9B[1]} <br>
   ${alunos2A9B[2]} <br>
-  ${alunos2A9B[3]} <br>
   </td>
 
   <td> 
@@ -1272,7 +1266,6 @@ function gerar() {
   ${alunos2B9B[1]} <br>
   ${alunos2B9B[2]} <br>
   ${alunos2B9B[3]} <br>
-  ${alunos2B9B[4]} <br>
   </td>
 
   <td> 
